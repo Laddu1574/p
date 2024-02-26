@@ -1,3 +1,3 @@
 function welcome(){
-    window.open("https://in.docworkspace.com/d/sIEKhqtZctPSGrgY");
+    window.open("https://peach-laurena-77.tiiny.site/");
 }
