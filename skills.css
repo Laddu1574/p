@@ -71,7 +71,7 @@ body{
     background-color: #0ef;
 }
 .skills-column:nth-child(1) .skills-content .progress:nth-child(1) .bar span{
-    width: 75%;
+    width: 70%;
 }
 .skills-column:nth-child(1) .skills-content .progress:nth-child(2) .bar span{
     width: 80%;
